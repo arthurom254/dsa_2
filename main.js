@@ -1,1 +1,4 @@
-function atom(){alert("atlm")}
+function atom(){
+  alert("atlm")
+}
+atom();
